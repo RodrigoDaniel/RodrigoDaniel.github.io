@@ -16,6 +16,8 @@ Long Distance Heart Rate Monitor
 
 Magnetic Transcraneal Stimulator
 
+<iframe width="640" height="360" src="http://youtu.be/sRd3RhHPLTs" frameborder="0" allowfullscreen></iframe>
+
 Tomato Grafting Machine
 
 RC Car Controlled by Hand Gestures
