@@ -6,9 +6,13 @@ BS Degree in Mechatronics Engineering
 Licenciado en Ingenieria Mecatrónica
 Benemérita Universidad Auténoma de Puebla (University of Puebla, México)
 
+![alt text](http://i.imgur.com/2i35DTo.jpg)
+
 Projects
 
 Long Distance Heart Rate Monitor
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/dfCd2eQfueY?list=UUw7F4bJbtGwORQwMBxlGb6w" frameborder="0" allowfullscreen></iframe>
 
 Magnetic Transcraneal Stimulator
 
