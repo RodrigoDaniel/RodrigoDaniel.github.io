@@ -12,11 +12,9 @@ Projects
 
 Long Distance Heart Rate Monitor
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/dfCd2eQfueY?list=UUw7F4bJbtGwORQwMBxlGb6w" frameborder="0" allowfullscreen></iframe>
-
 Magnetic Transcraneal Stimulator
 
-<iframe width="640" height="360" src="http://youtu.be/sRd3RhHPLTs" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=sRd3RhHPLTs" frameborder="0" allowfullscreen></iframe>
 
 Tomato Grafting Machine
 
