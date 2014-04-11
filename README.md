@@ -1,6 +1,7 @@
 RodrigoDaniel.github.io
 =======================
 
+Portafolio
 Rodrigo Daniel Velasco
 
 BS Degree in Mechatronics Engineering 
@@ -8,8 +9,6 @@ BS Degree in Mechatronics Engineering
 Licenciado en Ingenieria Mecatrónica
 
 Benemérita Universidad Auténoma de Puebla (University of Puebla, México)
-
-![alt text](http://i.imgur.com/0L7Bj71.jpg)
 
 Projects
 
