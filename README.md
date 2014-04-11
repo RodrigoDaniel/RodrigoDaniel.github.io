@@ -20,6 +20,18 @@ Tomato Grafting Machine
 
 RC Car Controlled by Hand Gestures
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/QkxsVIQm3_k" frameborder="0" allowfullscreen></iframe>
+
+
+Other projects
+
+Conveyor System whit Labview
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/R5oa-1kOnPU" frameborder="0" allowfullscreen></iframe>
+
+Pay Station System for Parking Lot
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/oihFPX2vUIE" frameborder="0" allowfullscreen></iframe>
 
 
 _____________________________________________________________
