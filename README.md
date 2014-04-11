@@ -9,7 +9,7 @@ Licenciado en Ingenieria Mecatrónica
 
 Benemérita Universidad Auténoma de Puebla (University of Puebla, México)
 
-![alt text](http://i.imgur.com/2i35DTo.jpg)
+![alt text](http://i.imgur.com/0L7Bj71.jpg)
 
 Projects
 
