@@ -17,24 +17,24 @@ Long Distance Heart Rate Monitor
 
 Magnetic Transcraneal Stimulator
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/sRd3RhHPLTs" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/UcOnweM3HQM" frameborder="0" allowfullscreen></iframe>
 
 Tomato Grafting Machine
 
 RC Car Controlled by Hand Gestures
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/QkxsVIQm3_k" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/LH1WCH44ass" frameborder="0" allowfullscreen></iframe>
 
 
 Other projects
 
 Conveyor System whit Labview
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/R5oa-1kOnPU" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/PJYvEvi9W9E" frameborder="0" allowfullscreen></iframe>
 
 Pay Station System for Parking Lot
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/oihFPX2vUIE" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/VmHW46A9GP8" frameborder="0" allowfullscreen></iframe>
 
 
 _____________________________________________________________
