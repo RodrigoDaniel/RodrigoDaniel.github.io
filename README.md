@@ -4,9 +4,6 @@
 
 <section class="sec">
 
-Rodrigo Daniel Velasco
-
-
 BS Degree in Mechatronics Engineering 
 
 Benemérita Universidad Autónoma de Puebla (University of Puebla, México)
