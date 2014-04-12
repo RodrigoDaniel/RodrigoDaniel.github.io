@@ -1,14 +1,12 @@
----
-layout: home
-title: "Rodrigo Daniel Velasco" 
----
 
-<<<<<<< HEAD
+#"Rodrigo Daniel Velasco" 
+
+
+
 <section class="sec">
-=======
-Portafolio
+
 Rodrigo Daniel Velasco
->>>>>>> FETCH_HEAD
+
 
 BS Degree in Mechatronics Engineering 
 
@@ -16,13 +14,10 @@ Benemérita Universidad Autónoma de Puebla (University of Puebla, México)
 
 </section>
 
-<<<<<<< HEAD
+
 ## Projects
 
 <section class="row">
-=======
-Projects
->>>>>>> FETCH_HEAD
 
 <section class="sec">
 ### Long Distance Heart Rate Monitor
