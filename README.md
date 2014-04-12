@@ -1,4 +1,3 @@
-
 #"Rodrigo Daniel Velasco" 
 
 
@@ -34,6 +33,7 @@ Benemérita Universidad Autónoma de Puebla (University of Puebla, México)
 
 </section>
 
+<section class="row">
 <section class="sec">
 #### School Proyects
 
@@ -44,6 +44,8 @@ Benemérita Universidad Autónoma de Puebla (University of Puebla, México)
 ##### Pay Station System for Parking Lot
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/VmHW46A9GP8" frameborder="0" allowfullscreen></iframe>
+
+</section>
 
 </section>
 
