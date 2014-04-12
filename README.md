@@ -3,7 +3,12 @@ layout: home
 title: "Rodrigo Daniel Velasco" 
 ---
 
+<<<<<<< HEAD
 <section class="sec">
+=======
+Portafolio
+Rodrigo Daniel Velasco
+>>>>>>> FETCH_HEAD
 
 BS Degree in Mechatronics Engineering 
 
@@ -11,9 +16,13 @@ Benemérita Universidad Autónoma de Puebla (University of Puebla, México)
 
 </section>
 
+<<<<<<< HEAD
 ## Projects
 
 <section class="row">
+=======
+Projects
+>>>>>>> FETCH_HEAD
 
 <section class="sec">
 ### Long Distance Heart Rate Monitor
@@ -52,6 +61,3 @@ Benemérita Universidad Autónoma de Puebla (University of Puebla, México)
 #### Youtube Chanle
 
 - [Meca Projects](http://www.youtube.com/channel/UCMQgysliAcMJsOzLBr-1Xgw)
-
-
-</section>
