@@ -1,48 +1,57 @@
-RodrigoDaniel.github.io
-=======================
+---
+layout: home
+title: "Rodrigo Daniel Velasco" 
+---
 
-Rodrigo Daniel Velasco
+<section class="sec">
 
 BS Degree in Mechatronics Engineering 
 
-Licenciado en Ingenieria Mecatrónica
+Benemérita Universidad Autónoma de Puebla (University of Puebla, México)
 
-Benemérita Universidad Auténoma de Puebla (University of Puebla, México)
+</section>
 
-![alt text](http://i.imgur.com/0L7Bj71.jpg)
+## Projects
 
-Projects
+<section class="row">
 
-Long Distance Heart Rate Monitor
+<section class="sec">
+### Long Distance Heart Rate Monitor
 
-Magnetic Transcraneal Stimulator
+### Magnetic Transcraneal Stimulator
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/UcOnweM3HQM" frameborder="0" allowfullscreen></iframe>
 
-Tomato Grafting Machine
+### Tomato Grafting Machine
 
-RC Car Controlled by Hand Gestures
+### RC Car Controlled by Hand Gestures
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/LH1WCH44ass" frameborder="0" allowfullscreen></iframe>
 
+</section>
 
-Other projects
+<section class="sec">
+#### School Proyects
 
-Conveyor System whit Labview
+##### Conveyor System whit Labview
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/PJYvEvi9W9E" frameborder="0" allowfullscreen></iframe>
 
-Pay Station System for Parking Lot
+##### Pay Station System for Parking Lot
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/VmHW46A9GP8" frameborder="0" allowfullscreen></iframe>
 
+</section>
 
-_____________________________________________________________
-My Github user page is at: 
-https://github.com/RodrigoDaniel/
+</section>
 
-My Github Pages repo can be found at:  
-https://github.com/RodrigoDaniel/RodrigoDaniel.github.io/
 
-And, soon, you can see my customized homepage at:
-http://RodrigoDaniel.github.io/
+------------
+
+
+#### Youtube Chanle
+
+- [Meca Projects](http://www.youtube.com/channel/UCMQgysliAcMJsOzLBr-1Xgw)
+
+
+</section>
