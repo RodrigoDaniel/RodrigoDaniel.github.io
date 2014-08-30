@@ -1,14 +1,8 @@
----
-layout: home
-title: "Rodrigo Daniel Velasco" 
----
+#"Rodrigo Daniel Velasco" 
 
-<<<<<<< HEAD
+
+
 <section class="sec">
-=======
-Portafolio
-Rodrigo Daniel Velasco
->>>>>>> FETCH_HEAD
 
 BS Degree in Mechatronics Engineering 
 
@@ -16,13 +10,10 @@ Benemérita Universidad Autónoma de Puebla (University of Puebla, México)
 
 </section>
 
-<<<<<<< HEAD
+
 ## Projects
 
 <section class="row">
-=======
-Projects
->>>>>>> FETCH_HEAD
 
 <section class="sec">
 ### Long Distance Heart Rate Monitor
@@ -39,6 +30,7 @@ Projects
 
 </section>
 
+<section class="row">
 <section class="sec">
 #### School Proyects
 
@@ -49,6 +41,8 @@ Projects
 ##### Pay Station System for Parking Lot
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/VmHW46A9GP8" frameborder="0" allowfullscreen></iframe>
+
+</section>
 
 </section>
 
